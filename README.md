@@ -50,4 +50,4 @@ The last things I made to make my code cleaner and understandable was refactorin
 Firstly, I divided my many lines of code in more files. So, that every class would have its own file. I eliminated the redundant lines, or wrote the same
 logic of some of them in significantly less lines. Also, for the parts where the same code was repeated I created separate functions. 
 
-I tried to best to structure logically my code.
+I tried my best to structure logically my code.
