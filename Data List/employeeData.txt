@@ -1,0 +1,20 @@
+Carla
+2
+Cashier
+250
+Claire
+15
+Butcher
+250
+William 
+5
+Fishmonger
+250
+Laurence
+6
+Security Guard
+300
+James
+2
+guy from the warehouse
+250
